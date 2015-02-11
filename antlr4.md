@@ -1,8 +1,8 @@
 #### Configure Antlr4
 
-- 1. Set Alias for Antlr4
+1. Set Alias for Antlr4
 
-- 2. Write the grammar file
+2. Write the grammar file
 
 - 3. Generate parser and lexer
 use command antlr4 Hello.g4
