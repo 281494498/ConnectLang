@@ -1,0 +1,7 @@
+1. Create> Composition name> XXX
+2. Create> Composition name> XXX, Model Name> ZZZ, instance name> yyy
+3. Create> Composition name> XXX, Instance1 Name> ZZZ, instance2 name> yyy, port1 Name> ZZZ, port2 name> yyy
+
+1. Delete> Composition name> XXX
+2. Delete> Composition name> XXX, Model Name> ZZZ, instance name> yyy
+3. Delete> Composition name> XXX, Instance1 Name> ZZZ, instance2 name> yyy, port1 Name> ZZZ, port2 name> yyy
